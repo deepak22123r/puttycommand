@@ -1,0 +1,11 @@
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\bin\Debug\netcoreapp2.2\PuttyCommand.deps.json
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\bin\Debug\netcoreapp2.2\PuttyCommand.runtimeconfig.json
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\bin\Debug\netcoreapp2.2\PuttyCommand.runtimeconfig.dev.json
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\bin\Debug\netcoreapp2.2\PuttyCommand.dll
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\obj\Debug\netcoreapp2.2\PuttyCommand.csprojAssemblyReference.cache
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\obj\Debug\netcoreapp2.2\PuttyCommand.csproj.CoreCompileInputs.cache
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\obj\Debug\netcoreapp2.2\PuttyCommand.AssemblyInfoInputs.cache
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\obj\Debug\netcoreapp2.2\PuttyCommand.AssemblyInfo.cs
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\bin\Debug\netcoreapp2.2\PuttyCommand.pdb
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\obj\Debug\netcoreapp2.2\PuttyCommand.dll
+E:\projects\Roshni_Work\PuttyCommand\PuttyCommand\obj\Debug\netcoreapp2.2\PuttyCommand.pdb
